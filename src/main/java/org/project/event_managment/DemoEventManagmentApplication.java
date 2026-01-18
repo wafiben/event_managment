@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoEventManagmentApplication {
 
     public static void main(String[] args) {
+        System.out.println("kkkk");
         SpringApplication.run(DemoEventManagmentApplication.class, args);
     }
-
 }
