@@ -26,7 +26,6 @@ public class UserRegisteredEvent {
         return username;
     }
 
-    // ✅ Setters (required by Jackson)
     public void setUserId(String userId) {
         this.userId = userId;
     }
